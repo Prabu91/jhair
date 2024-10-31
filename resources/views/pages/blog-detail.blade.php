@@ -36,15 +36,15 @@
 							<li><a href="#">Feb 20, 2019</a></li>
 							<li><a href="#">2 Comments</a></li>
 						</ul>
-						<h2>As managing partner of  Invisor Consulting, he advises business leaders.</h2>
-						<p>Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her</p>
-						<p>Pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out th</p>
+						<h2>Lorem ipsum dolor sit amet consectetur.</h2>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam aliquam ducimus mollitia doloremque dolorum saepe quisquam corrupti, beatae accusamus ut blanditiis est distinctio perferendis debitis, quos porro reiciendis. Vel, atque!</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam aliquam ducimus mollitia doloremque dolorum saepe quisquam corrupti, beatae accusamus ut blanditiis est distinctio perferendis debitis, quos porro reiciendis. Vel, atque!</p>
 						<blockquote>
-							A collection of textile samples lay spread out on the table Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquam eum eaque quibusdam ab quis dolores, praesentium dolorem hic amet nostrum? Maxime nostrum maiores quae ut. Ducimus totam quasi dignissimos.
 							<span class="quoter">- Jhone dow</span>
 						</blockquote>
-						<h3>Whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather</h3>
-						<p>Transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</p>
+						<h3>Lorem ipsum dolor sit amet consectetur adipisicing.</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio ab dolorem aperiam tempore, asperiores harum culpa id rem molestiae quas sit eius, reprehenderit assumenda aspernatur! Blanditiis, rerum! Omnis, minima distinctio!</p>
 					</div>
 
 					<div class="tag-share">
@@ -74,7 +74,7 @@
 						</div>
 						<div class="author-content">
 							<a href="#" class="author-name">Jhon dow</a>
-							<p>Hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather frops</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sequi incidunt ullam perferendis voluptate unde, beatae repellat, accusamus quas officia reprehenderit molestiae nam. Quam fugit cupiditate sapiente nemo vero rem.</p>
 							<div class="socials">
 								<ul class="social-link">
 									<li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -114,7 +114,7 @@
 													<h4>Dow <span class="comments-date">says Oct 15, 2018 at 11:00</span></h4>
 												</div>
 												<div class="comment-area">
-													<p>Window dull covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather</p>
+													<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sequi incidunt ullam perferendis voluptate unde, beatae repellat, accusamus quas officia reprehenderit molestiae nam. Quam fugit cupiditate sapiente nemo vero rem.</p>
 													<div class="comments-reply">
 														<a class="comment-reply-link" href="#"><span>Reply</span></a>
 													</div>
@@ -134,7 +134,7 @@
 															<h4>Dow <span class="comments-date">says Oct 15, 2018 at 11:00</span></h4>
 														</div>
 														<div class="comment-area">
-															<p>Window dull covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather</p>
+															<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sequi incidunt ullam perferendis voluptate unde, beatae repellat, accusamus quas officia reprehenderit molestiae nam. Quam fugit cupiditate sapiente nemo vero rem.</p>
 															<div class="comments-reply">
 																<a  class="comment-reply-link" href="#"><span>Reply</span></a>
 															</div>
@@ -154,7 +154,7 @@
 																	<h4>Dow <span class="comments-date">says Oct 15, 2018 at 11:00</span></h4>
 																</div>
 																<div class="comment-area">
-																	<p>Window dull covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather</p>
+																	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sequi incidunt ullam perferendis voluptate unde, beatae repellat, accusamus quas officia reprehenderit molestiae nam. Quam fugit cupiditate sapiente nemo vero rem.</p>
 																	<div class="comments-reply">
 																		<a  class="comment-reply-link" href="#"><span>Reply</span></a>
 																	</div>
@@ -179,7 +179,7 @@
 													<h4>Dow <span class="comments-date">says Oct 15, 2018 at 11:00</span></h4>
 												</div>
 												<div class="comment-area">
-													<p>Window dull covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather</p>
+													<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam sequi incidunt ullam perferendis voluptate unde, beatae repellat, accusamus quas officia reprehenderit molestiae nam. Quam fugit cupiditate sapiente nemo vero rem.</p>
 													<div class="comments-reply">
 														<a  class="comment-reply-link" href="#"><span>Reply</span></a>
 													</div>
@@ -247,7 +247,7 @@
 									<img src="{{ asset('images/recent-posts/img-1.jpg') }}" alt>
 								</div>
 								<div class="details">
-									<h4><a href="#">Gregor then turned to look out the window</a></h4>
+									<h4><a href="#">Lorem ipsum dolor sit amet consectetur.</a></h4>
 									<span class="date">Feb 1 2019</span>
 								</div>
 							</div>
@@ -256,7 +256,7 @@
 									<img src="{{ asset('images/recent-posts/img-2.jpg') }}" alt>
 								</div>
 								<div class="details">
-									<h4><a href="#">His room, a proper human room although a little too</a></h4>
+									<h4><a href="#">Lorem ipsum dolor sit amet consectetur.</a></h4>
 									<span class="date">Feb 1 2019</span>
 								</div>
 							</div>
@@ -265,7 +265,7 @@
 									<img src="{{ asset('images/recent-posts/img-3.jpg') }}" alt>
 								</div>
 								<div class="details">
-									<h4><a href="#">Samples lay spread out on the table</a></h4>
+									<h4><a href="#">Lorem ipsum dolor sit amet consectetur.</a></h4>
 									<span class="date">Feb 1 2019</span>
 								</div>
 							</div>

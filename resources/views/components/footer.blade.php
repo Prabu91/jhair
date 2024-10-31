@@ -5,7 +5,7 @@
                 <div class="col col-lg-3">
                     <div class="widget about-widget">
                         <img src="{{ asset('images/footer-logo.png') }}" alt="Footer Logo">
-						<p>Samsa was a travelling salesman  and above it there hung a picture that he had recently cut out of an illustrated magazine and housed</p>
+						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta quisquam ipsa ipsum, blanditiis veniam illo. Aut quo placeat inventore debitis.</p>
                     </div>
                 </div>
 				<div class="col col-lg-3 col-md-3 col-sm-6">

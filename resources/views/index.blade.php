@@ -13,10 +13,10 @@
 						>
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2>Most populer consulting agency</h2>
+                                    <h2>Lorem ipsum dolor sit.</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p>Raising a heavy fur muff that covered the whole of her lower arm towards the viewer.</p>
+                                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis dolorum harum ratione repellendus quos pariatur?</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -30,10 +30,10 @@
                         <div class="slide-inner slide-bg-image" data-background="images/slider/slide-2.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2>We do exactly what we says</h2>
+                                    <h2>Lorem ipsum dolor sit.</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p>Raising a heavy fur muff that covered the whole of her lower arm towards the viewer.</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, esse?</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -47,10 +47,10 @@
                         <div class="slide-inner slide-bg-image" data-background="images/slider/slide-3.jpg">
                             <div class="container">
                                 <div data-swiper-parallax="300" class="slide-title">
-                                    <h2>Normal sleeps, super dreams</h2>
+                                    <h2>Lorem ipsum dolor sit amet.</h2>
                                 </div>
                                 <div data-swiper-parallax="400" class="slide-text">
-                                    <p>Raising a heavy fur muff that covered the whole of her lower arm towards the viewer.</p>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus!</p>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div data-swiper-parallax="500" class="slide-btns">
@@ -81,22 +81,22 @@
                                 <div class="icon">
                                     <i class="fi flaticon-sheriff"></i>
                                 </div>
-                                <h3>Business Consulting</h3>
-                                <p>Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex possimus minus est voluptates magnam sed ullam at repudiandae. Ipsum amet ut qui id odit nesciunt molestias, soluta tenetur perspiciatis placeat.</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-diamond"></i>
                                 </div>
-                                <h3>Market Research</h3>
-                                <p>Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex possimus minus est voluptates magnam sed ullam at repudiandae. Ipsum amet ut qui id odit nesciunt molestias, soluta tenetur perspiciatis placeat.</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-idea"></i>
                                 </div>
-                                <h3>Thaught Leadership</h3>
-                                <p>Peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex possimus minus est voluptates magnam sed ullam at repudiandae. Ipsum amet ut qui id odit nesciunt molestias, soluta tenetur perspiciatis placeat.</p>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                     <div class="col col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                         <div class="section-title">
                             <span>Our wrok process</span>
-                            <h3>A collection of textile samples lay spread out on the table amsa was travelling salesman and above it there hung a picture that he had of an illustrated magazine and housed</h3>
+                            <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci, nihil? Qui ipsa, in ad voluptatem modi repellendus facere doloribus nesciunt perspiciatis soluta repellat possimus rem quia enim vel, perferendis labore.</h3>
                         </div>
                     </div>
                 </div>
@@ -124,22 +124,22 @@
                                 <div class="icon">
                                     <i class="fi flaticon-idea"></i>
                                 </div>
-                                <h3>01. Find the Problem</h3>
-                                <p> Raising a heavy fur muff that covered the whole of her lower arm </p>
+                                <h3>01. Lorem, ipsum.</h3>
+                                <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint, aperiam. </p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-diamond"></i>
                                 </div>
-                                <h3>02. Discuss about it</h3>
-                                <p> Raising a heavy fur muff that covered the whole of her lower arm </p>
+                                <h3>02. Lorem, ipsum.</h3>
+                                <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint, aperiam. </p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-sheriff"></i>
                                 </div>
-                                <h3>03. Expert tem work</h3>
-                                <p> Raising a heavy fur muff that covered the whole of her lower arm </p>
+                                <h3>03. Lorem, ipsum.</h3>
+                                <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sint, aperiam. </p>
                             </div>
                         </div>
                     </div>
@@ -155,12 +155,11 @@
                 <div class="row">
                     <div class="col col-md-6 col-md-push-6">
                         <div class="section-title-s2">
-                            <span>We are consulting agency!</span>
-                            <h2>We’re interested to <br>share about us</h2>
+                            <span>Lorem ipsum dolor sit.!</span>
+                            <h2>Lorem, ipsum dolor. <br>Lorem, ipsum.</h2>
                         </div>
                         <div class="about-content">
-                            <h4>It wasn't a dream. His room, a proper human room although little too small, lay peacefully between its four</h4>
-                            <p>Peacefully between its four familiar walls a collection of textile samples lay spread out on the table - Samsa was a travelling salesman  and above it there hung a piture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window</p>
+                            <h4>Lorem, ipsum dolor sit amet consectetur adipisicing elit. At eaque est maiores illo hic a eos praesentium voluptatibus inventore in laboriosam, dolor eius doloribus quam. Unde vel cumque soluta nostrum.</p>
                             <h5>Phone: 012345645, +6546521145</h5>
                         </div>
                     </div>
@@ -186,8 +185,8 @@
                     <div class="col col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                         <div class="section-title-s3">
                             <span>Services</span>
-                            <h2>Best services</h2>
-                            <p>Showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look </p>
+                            <h2>lorem</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, voluptates consequatur nesciunt laborum quos corrupti totam, accusantium error eligendi dolorem et possimus magni reprehenderit enim nihil quo mollitia ducimus sequi. </p>
                         </div>
                     </div>
                 </div>
@@ -198,43 +197,43 @@
                                 <div class="icon">
                                     <i class="fi flaticon-gift"></i>
                                 </div>
-                                <h3><a href="#">Market Research</a></h3>
-                                <p>Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and</p>
+                                <h3><a href="#">lorem</a></h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente optio possimus nesciunt fugiat maiores consequuntur quasi? Nostrum, quas fugit aspernatur a sapiente error accusantium architecto esse fugiat. Minus, dolores porro!</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-suitcase"></i>
                                 </div>
-                                <h3><a href="#">Corporate Finance</a></h3>
-                                <p>Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and</p>
+                                <h3><a href="#">lorem</a></h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente optio possimus nesciunt fugiat maiores consequuntur quasi? Nostrum, quas fugit aspernatur a sapiente error accusantium architecto esse fugiat. Minus, dolores porro!</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-stats"></i>
                                 </div>
-                                <h3><a href="#">Advanced Analytics</a></h3>
-                                <p>Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and</p>
+                                <h3><a href="#">lorem</a></h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente optio possimus nesciunt fugiat maiores consequuntur quasi? Nostrum, quas fugit aspernatur a sapiente error accusantium architecto esse fugiat. Minus, dolores porro!</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-start"></i>
                                 </div>
-                                <h3><a href="#">Change Management</a></h3>
-                                <p>Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and</p>
+                                <h3><a href="#">lorem</a></h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente optio possimus nesciunt fugiat maiores consequuntur quasi? Nostrum, quas fugit aspernatur a sapiente error accusantium architecto esse fugiat. Minus, dolores porro!</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-chess-piece"></i>
                                 </div>
-                                <h3><a href="#">Strategy & Marketing</a></h3>
-                                <p>Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and</p>
+                                <h3><a href="#">lorem</a></h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente optio possimus nesciunt fugiat maiores consequuntur quasi? Nostrum, quas fugit aspernatur a sapiente error accusantium architecto esse fugiat. Minus, dolores porro!</p>
                             </div>
                             <div class="grid">
                                 <div class="icon">
                                     <i class="fi flaticon-green-energy"></i>
                                 </div>
-                                <h3><a href="#">Sustainability</a></h3>
-                                <p>Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and</p>
+                                <h3><a href="#">lorem</a></h3>
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente optio possimus nesciunt fugiat maiores consequuntur quasi? Nostrum, quas fugit aspernatur a sapiente error accusantium architecto esse fugiat. Minus, dolores porro!</p>
                             </div>
                         </div>
                     </div>
@@ -251,7 +250,7 @@
                 <div class="row">
                     <div class="col col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                         <div class="testimonials-area">
-                            <p> Lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table Samsa was a travelling salesman it there hung a picture that he had re ently cut out of an</p>
+                            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto, libero pariatur. Explicabo, ut voluptas, qui odit excepturi facilis dolore at odio nostrum officiis, quae enim tenetur autem neque nam sapiente.</p>
                             <span class="quoter">Thomas Calvin</span>
                         </div>
                     </div>
@@ -274,8 +273,8 @@
                                 <a href="#"><i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="details">
-                                <h3>Business consulting</h3>
-                                <p class="cat">Maketing</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p class="cat">lorem</p>
                             </div>
                         </div>
                     </div>
@@ -288,8 +287,8 @@
                                 <a href="#"><i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="details">
-                                <h3>Business consulting</h3>
-                                <p class="cat">Maketing</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p class="cat">lorem</p>
                             </div>
                         </div>
                     </div>
@@ -302,8 +301,8 @@
                                 <a href="#"><i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="details">
-                                <h3>Business consulting</h3>
-                                <p class="cat">Maketing</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p class="cat">lorem</p>
                             </div>
                         </div>
                     </div>
@@ -316,8 +315,8 @@
                                 <a href="#"><i class="fi flaticon-next"></i></a>
                             </div>
                             <div class="details">
-                                <h3>Business consulting</h3>
-                                <p class="cat">Maketing</p>
+                                <h3>Lorem, ipsum.</h3>
+                                <p class="cat">lorem</p>
                             </div>
                         </div>
                     </div>
@@ -339,7 +338,7 @@
                                 </div>
                                 <div class="info">
                                     <h3><span class="odometer" data-count="25">00</span>+</h3>
-                                    <p>Years of experience</p>
+                                    <p>Lorem, ipsum.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -348,7 +347,7 @@
                                 </div>
                                 <div class="info">
                                     <h3><span class="odometer" data-count="250">00</span>+</h3>
-                                    <p>Happy clients</p>
+                                    <p>Lorem, ipsum.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -357,7 +356,7 @@
                                 </div>
                                 <div class="info">
                                     <h3><span class="odometer" data-count="137">00</span>+</h3>
-                                    <p>Projects done</p>
+                                    <p>Lorem, ipsum.</p>
                                 </div>
                             </div>
                             <div class="grid">
@@ -366,7 +365,7 @@
                                 </div>
                                 <div class="info">
                                     <h3><span class="odometer" data-count="13">00</span>+</h3>
-                                    <p>Awards won</p>
+                                    <p>Lorem, ipsum.</p>
                                 </div>
                             </div>
                         </div>
@@ -387,7 +386,7 @@
                             <div class="video-holder">
                                 <a href="https://www.youtube.com/embed/7e90gBu4pas?autoplay=1" class="video-btn" data-type="iframe" tabindex="0"><i class="fi flaticon-video-player"></i><span>See more about our company</span></a>
                             </div>
-                            <h3>We are the most trustable consulting agency around the world</h3>
+                            <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h3>
                         </div>
                     </div>
                 </div>
@@ -401,7 +400,7 @@
                         </div>
                         <div class="col col-md-6">
                             <div class="title-text">
-                                <p>Showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer gregor then turned to look arround the world </p>
+                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque nobis rem delectus inventore at laborum vel, explicabo praesentium voluptate. Inventore corporis accusantium tempore. Itaque eius hic necessitatibus doloremque inventore blanditiis!</p>
                             </div>
                         </div>
                     </div>
@@ -460,10 +459,10 @@
                     <div class="col col-md-6">
                         <div class="section-title-s2">
                             <span>Meet up</span>
-                            <h2>Need help with a <br>Project?</h2>
+                            <h2>Lorem, ipsum dolor. <br>Emet?</h2>
                         </div>  
                         <div class="cta-text">
-                            <p>Showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer gregor then turned to look arround the world </p>
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam sed hic libero dolorem autem pariatur nisi voluptatibus voluptate adipisci voluptatum mollitia iusto, velit, molestiae in temporibus tempora eveniet laudantium reprehenderit. </p>
                             <a href="#" class="theme-btn-s2">Get In Touch</a>
                         </div>              
                     </div>
@@ -554,7 +553,7 @@
                     </div>                
                     <div class="col col-md-6">
                         <div class="section-title-text">
-                            <p>Showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer gregor then turned to look arround the world </p>
+                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet maiores dolor quas sapiente consequatur corrupti omnis a accusantium. Placeat iste quis beatae laborum quas asperiores expedita alias eum sequi laudantium! </p>
                         </div>  
                     </div>                
                 </div>
@@ -569,7 +568,7 @@
                                     <h4>16</h4>
                                     <span>Feb <br>2019</span>
                                 </div>
-                                <h3><a href="#">Consulting Success is the most comprehensive learning </a></h3>
+                                <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing.</a></h3>
                             </div>
                             <div class="grid">
                                 <div class="entry-media">
@@ -579,7 +578,7 @@
                                     <h4>17</h4>
                                     <span>Feb <br>2019</span>
                                 </div>
-                                <h3><a href="#">Fields works with individual consult and consulting firms across</a></h3>
+                                <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing.</a></h3>
                             </div>
                             <div class="grid">
                                 <div class="entry-media">
@@ -589,7 +588,7 @@
                                     <h4>18</h4>
                                     <span>Feb <br>2019</span>
                                 </div>
-                                <h3><a href="#">Proven advice on how to grow your consulting practice. </a></h3>
+                                <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing.</a></h3>
                             </div>
                         </div>
                     </div>

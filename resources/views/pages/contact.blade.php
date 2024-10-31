@@ -29,7 +29,7 @@
 				<div class="section-title-s3">
 					<span>Contact us</span>
 					<h2>Drop us a line</h2>
-					<p>Pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought</p>
+					<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit.</p>
 				</div>
 			</div>
 		</div>

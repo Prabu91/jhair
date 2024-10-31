@@ -35,8 +35,8 @@
 						<a href="#"><i class="fi flaticon-next"></i></a>
 					</div>
 					<div class="details">
-						<h3>Business consulting</h3>
-						<p class="cat">Maketing</p>
+						<h3>Lorem, ipsum.</h3>
+						<p class="cat">lorem</p>
 					</div>
 				</div>
 			</div>
@@ -49,8 +49,8 @@
 						<a href="#"><i class="fi flaticon-next"></i></a>
 					</div>
 					<div class="details">
-						<h3>Business consulting</h3>
-						<p class="cat">Maketing</p>
+						<h3>Lorem, ipsum.</h3>
+						<p class="cat">lorem</p>
 					</div>
 				</div>
 			</div>
@@ -63,8 +63,8 @@
 						<a href="#"><i class="fi flaticon-next"></i></a>
 					</div>
 					<div class="details">
-						<h3>Business consulting</h3>
-						<p class="cat">Maketing</p>
+						<h3>Lorem, ipsum.</h3>
+						<p class="cat">lorem</p>
 					</div>
 				</div>
 			</div>
@@ -77,8 +77,8 @@
 						<a href="#"><i class="fi flaticon-next"></i></a>
 					</div>
 					<div class="details">
-						<h3>Business consulting</h3>
-						<p class="cat">Maketing</p>
+						<h3>Lorem, ipsum.</h3>
+						<p class="cat">lorem</p>
 					</div>
 				</div>
 			</div>

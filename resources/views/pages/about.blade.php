@@ -26,7 +26,7 @@
 			<div class="row">
 				<div class="col col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 					<div class="title-area">
-						<h2>A collection of textile samples lay spread out on the table amsa was travelling salesman and above it there hung a picture that he had of an illustrated magazine and housed</h2>
+						<h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</h2>
 					</div>
 				</div>
 			</div>
@@ -38,21 +38,21 @@
 								<img src="{{ asset('images/about/img-1.jpg') }}" alt>
 							</div>
 							<h3>Our mission</h3>
-							<p>He thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 						</div>
 						<div class="grid">
 							<div class="img-holder">
 								<img src="{{ asset('images/about/img-2.jpg') }}" alt>
 							</div>
 							<h3>Our vision</h3>
-							<p>He thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 						</div>
 						<div class="grid">
 							<div class="img-holder">
 								<img src="{{ asset('images/about/img-3.jpg') }}" alt>
 							</div>
 							<h3>Our strategies</h3>
-							<p>He thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 						</div>
 					</div>
 				</div>
@@ -68,7 +68,7 @@
 			<div class="left-col"></div>
 			<div class="right-col">
 				<h2>Why we are the best choice for <br>your next project!</h2>
-				<p>Helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman</p>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 				<ul>
 					<li><i class="ti-check"></i>peacefully between its four familiar walls a collection of textile samples</li>
 					<li><i class="ti-check"></i>Familiar walls a collection of textile samples</li>
@@ -114,7 +114,7 @@
 			<div class="row">
 				<div class="col col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 					<div class="testimonials-area">
-						<p> Lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table Samsa was a travelling salesman it there hung a picture that he had re ently cut out of an</p>
+						<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 						<span class="quoter">Thomas Calvin</span>
 					</div>
 				</div>
@@ -132,7 +132,7 @@
 					<div class="section-title-s3">
 						<span>Projects</span>
 						<h2>Recent Projects</h2>
-						<p>Showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look </p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 					</div>
 				</div>
 			</div>
@@ -247,7 +247,7 @@
 				</div>
 				<div class="col col-md-6">
 					<div class="title-text">
-						<p>Showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer gregor then turned to look arround the world </p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque dicta reiciendis mollitia ut consectetur repudiandae illum, totam obcaecati dolorum a pariatur aliquid numquam molestias quisquam odio perferendis, non impedit.</p>
 					</div>
 				</div>
 			</div>

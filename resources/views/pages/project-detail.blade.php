@@ -41,8 +41,8 @@
 							</ul>
 						</div>
 						<h2>Business consulting project on drem city</h2>
-						<p>The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather</p>
-						<p>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table samsa was a travelling salesman</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsam tempore quidem alias cumque ut maxime velit, nulla nobis laboriosam. Facilis animi autem et aut nobis officia totam omnis quaerat?</p>
+						<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit nesciunt assumenda culpa explicabo earum, nostrum reiciendis quam sunt nobis unde, placeat aliquam dolore nisi rerum quibusdam architecto recusandae necessitatibus similique?</p>
 
 						<div class="challange-solution-section">
 							<div class="panel-group theme-accordion-s1" id="accordion">
@@ -52,7 +52,7 @@
 									</div>
 									<div id="collapse-1" class="panel-collapse collapse in">
 										<div class="panel-body">
-											<p>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table samsa was a travelling salesman</p>
+											<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi dicta corrupti eaque temporibus. Ea, rerum laboriosam? Debitis, vero. Ut officia quae quas sit optio fugiat distinctio tempore minima consequuntur perferendis?</p>
 											<ul>
 												<li><i class="ti-check"></i>spread out on the table samsa was a travelling salesman</li>
 												<li><i class="ti-check"></i>human room although a little too small</li>
@@ -67,7 +67,7 @@
 									</div>
 									<div id="collapse-2" class="panel-collapse collapse">
 										<div class="panel-body">
-											<p>His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table samsa was a travelling salesman</p>
+											<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quidem officia omnis delectus illo porro reiciendis aspernatur suscipit maiores et mollitia? Labore autem, alias ullam recusandae eius dignissimos magni quo nostrum.</p>
 											<ul>
 												<li><i class="ti-check"></i>spread out on the table samsa was a travelling salesman</li>
 												<li><i class="ti-check"></i>human room although a little too small</li>
