@@ -12,7 +12,7 @@
 			<div class="col col-xs-12">
 				<h2>Projects</h2>
 				<ol class="breadcrumb">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li>Projects</li>
 				</ol>
 			</div>
@@ -28,7 +28,7 @@
 		<div class="project-grids projects-slider">
 			<div class="grid">
 				<div class="img-holder">
-					<img src="assets/images/projects/img-1.jpg" alt>
+					<img src="{{ asset('images/projects/img-1.jpg') }}" alt>
 				</div>
 				<div class="hover-content">
 					<div class="top-link">
@@ -42,7 +42,7 @@
 			</div>
 			<div class="grid">
 				<div class="img-holder">
-					<img src="assets/images/projects/img-2.jpg" alt>
+					<img src="{{ asset('images/projects/img-2.jpg') }}" alt>
 				</div>
 				<div class="hover-content">
 					<div class="top-link">
@@ -56,7 +56,7 @@
 			</div>
 			<div class="grid">
 				<div class="img-holder">
-					<img src="assets/images/projects/img-3.jpg" alt>
+					<img src="{{ asset('images/projects/img-3.jpg') }}" alt>
 				</div>
 				<div class="hover-content">
 					<div class="top-link">
@@ -70,7 +70,7 @@
 			</div>
 			<div class="grid">
 				<div class="img-holder">
-					<img src="assets/images/projects/img-4.jpg" alt>
+					<img src="{{ asset('images/projects/img-4.jpg') }}" alt>
 				</div>
 				<div class="hover-content">
 					<div class="top-link">

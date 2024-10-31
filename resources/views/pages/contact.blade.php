@@ -11,7 +11,7 @@
 			<div class="col col-xs-12">
 				<h2>Contact</h2>
 				<ol class="breadcrumb">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li>Contact</li>
 				</ol>
 			</div>

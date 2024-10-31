@@ -10,7 +10,7 @@
 				<div class="col col-xs-12">
 					<h2>About us</h2>
 					<ol class="breadcrumb">
-						<li><a href="index.html">Home</a></li>
+						<li><a href="/">Home</a></li>
 						<li>About us</li>
 					</ol>
 				</div>
@@ -35,21 +35,21 @@
 					<div class="mission-vision-grids clearfix">
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/about/img-1.jpg" alt>
+								<img src="{{ asset('images/about/img-1.jpg') }}" alt>
 							</div>
 							<h3>Our mission</h3>
 							<p>He thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/about/img-2.jpg" alt>
+								<img src="{{ asset('images/about/img-2.jpg') }}" alt>
 							</div>
 							<h3>Our vision</h3>
 							<p>He thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/about/img-3.jpg" alt>
+								<img src="{{ asset('images/about/img-3.jpg') }}" alt>
 							</div>
 							<h3>Our strategies</h3>
 							<p>He thought. It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table</p>
@@ -142,7 +142,7 @@
 					<div class="project-grids clearfix">
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/projects/img-5.jpg" alt>
+								<img src="{{ asset('images/projects/img-5.jpg') }}" alt>
 							</div>
 							<div class="hover-content">
 								<div class="top-link">
@@ -156,7 +156,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/projects/img-6.jpg" alt>
+								<img src="{{ asset('images/projects/img-6.jpg') }}" alt>
 							</div>
 							<div class="hover-content">
 								<div class="top-link">
@@ -170,7 +170,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/projects/img-7.jpg" alt>
+								<img src="{{ asset('images/projects/img-7.jpg') }}" alt>
 							</div>
 							<div class="hover-content">
 								<div class="top-link">
@@ -184,7 +184,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/projects/img-8.jpg" alt>
+								<img src="{{ asset('images/projects/img-8.jpg') }}" alt>
 							</div>
 							<div class="hover-content">
 								<div class="top-link">
@@ -198,7 +198,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/projects/img-9.jpg" alt>
+								<img src="{{ asset('images/projects/img-9.jpg') }}" alt>
 							</div>
 							<div class="hover-content">
 								<div class="top-link">
@@ -212,7 +212,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/projects/img-10.jpg" alt>
+								<img src="{{ asset('images/projects/img-10.jpg') }}" alt>
 							</div>
 							<div class="hover-content">
 								<div class="top-link">
@@ -256,7 +256,7 @@
 					<div class="team-grids clearfix">
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/team/img-1.jpg" alt>
+								<img src="{{ asset('images/team/img-1.jpg') }}" alt>
 							</div>
 							<div class="details">
 								<h5>Morkal Akunda</h5>
@@ -265,7 +265,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/team/img-2.jpg" alt>
+								<img src="{{ asset('images/team/img-2.jpg') }}" alt>
 							</div>
 							<div class="details">
 								<h5>Tiptop Jonathon</h5>
@@ -274,7 +274,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/team/img-3.jpg" alt>
+								<img src="{{ asset('images/team/img-3.jpg') }}" alt>
 							</div>
 							<div class="details">
 								<h5>Aleon Dela</h5>
@@ -283,7 +283,7 @@
 						</div>
 						<div class="grid">
 							<div class="img-holder">
-								<img src="assets/images/team/img-4.jpg" alt>
+								<img src="{{ asset('images/team/img-4.jpg') }}" alt>
 							</div>
 							<div class="details">
 								<h5>Beila kelar</h5>
@@ -305,19 +305,19 @@
 				<div class="col col-xs-12">
 					<div class="partner-grids partners-slider">
 						<div class="grid">
-							<img src="assets/images/partners/img-1.png" alt>
+							<img src="{{ asset('images/partners/img-1.png') }}" alt>
 						</div>
 						<div class="grid">
-							<img src="assets/images/partners/img-2.png" alt>
+							<img src="{{ asset('images/partners/img-2.png' )}}" alt>
 						</div>
 						<div class="grid">
-							<img src="assets/images/partners/img-3.png" alt>
+							<img src="{{ asset('images/partners/img-3.png') }}" alt>
 						</div>
 						<div class="grid">
-							<img src="assets/images/partners/img-4.png" alt>
+							<img src="{{ asset('images/partners/img-4.png') }}" alt>
 						</div>
 						<div class="grid">
-							<img src="assets/images/partners/img-2.png" alt>
+							<img src="{{ asset('images/partners/img-2.png' )}}" alt>
 						</div>
 					</div>
 				</div>

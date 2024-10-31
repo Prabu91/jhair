@@ -11,7 +11,7 @@
 			<div class="col col-xs-12">
 				<h2>Blog single</h2>
 				<ol class="breadcrumb">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li>Blog single</li>
 				</ol>
 			</div>
@@ -29,7 +29,7 @@
 				<div class="blog-content">
 					<div class="post format-standard-image">
 						<div class="entry-media">
-							<img src="assets/images/blog/img-4.jpg" alt>
+							<img src="{{ asset('images/blog/img-4.jpg') }}" alt>
 						</div>
 						<ul class="entry-meta">
 							<li><a href="#">Admin</a></li>
@@ -70,7 +70,7 @@
 
 					<div class="author-box">
 						<div class="author-avatar">
-							<a href="#" target="_blank"><img src="assets/images/blog-details/author.jpg" alt></a>
+							<a href="#" target="_blank"><img src="{{ asset('images/blog-details/author.jpg') }}" alt></a>
 						</div>
 						<div class="author-content">
 							<a href="#" class="author-name">Jhon dow</a>
@@ -106,7 +106,7 @@
 								<li class="comment even thread-even depth-1" id="comment-1">
 									<div id="div-comment-1">
 										<div class="comment-theme">
-											<div class="comment-image"><img src="assets/images/blog-details/comments-author/img-1.jpg" alt></div>
+											<div class="comment-image"><img src="{{ asset('images/blog-details/comments-author/img-1.jpg') }}" alt></div>
 										</div>
 										<div class="comment-main-area">
 											<div class="comment-wrapper">
@@ -126,7 +126,7 @@
 										<li class="comment">
 											<div>
 												<div class="comment-theme">
-													<div class="comment-image"><img src="assets/images/blog-details/comments-author/img-2.jpg" alt></div>
+													<div class="comment-image"><img src="{{ asset('images/blog-details/comments-author/img-2.jpg') }}" alt></div>
 												</div>
 												<div class="comment-main-area">
 													<div class="comment-wrapper">
@@ -146,7 +146,7 @@
 												<li class="comment">
 													<div>
 														<div class="comment-theme">
-															<div class="comment-image"><img src="assets/images/blog-details/comments-author/img-3.jpg" alt></div>
+															<div class="comment-image"><img src="{{ asset('images/blog-details/comments-author/img-3.jpg') }}" alt></div>
 														</div>
 														<div class="comment-main-area">
 															<div class="comment-wrapper">
@@ -171,7 +171,7 @@
 								<li class="comment">
 									<div>
 										<div class="comment-theme">
-											<div class="comment-image"><img src="assets/images/blog-details/comments-author/img-1.jpg" alt></div>
+											<div class="comment-image"><img src="{{ asset('images/blog-details/comments-author/img-1.jpg') }}" alt></div>
 										</div>
 										<div class="comment-main-area">
 											<div class="comment-wrapper">
@@ -224,7 +224,7 @@
 					<div class="widget about-widget">
 						<h3>About us</h3>
 						<div class="img-holder">
-							<img src="assets/images/blog/about-widget.jpg" alt>
+							<img src="{{ asset('images/blog/about-widget.jpg') }}" alt>
 						</div>
 						<p>Her lower arm towards the viewer. Gregor then turned to look out the indow at the dull weather.</p>
 						<a href="#">More about us</a>
@@ -244,7 +244,7 @@
 						<div class="posts">
 							<div class="post">
 								<div class="img-holder">
-									<img src="assets/images/recent-posts/img-1.jpg" alt>
+									<img src="{{ asset('images/recent-posts/img-1.jpg') }}" alt>
 								</div>
 								<div class="details">
 									<h4><a href="#">Gregor then turned to look out the window</a></h4>
@@ -253,7 +253,7 @@
 							</div>
 							<div class="post">
 								<div class="img-holder">
-									<img src="assets/images/recent-posts/img-2.jpg" alt>
+									<img src="{{ asset('images/recent-posts/img-2.jpg') }}" alt>
 								</div>
 								<div class="details">
 									<h4><a href="#">His room, a proper human room although a little too</a></h4>
@@ -262,7 +262,7 @@
 							</div>
 							<div class="post">
 								<div class="img-holder">
-									<img src="assets/images/recent-posts/img-3.jpg" alt>
+									<img src="{{ asset('images/recent-posts/img-3.jpg') }}" alt>
 								</div>
 								<div class="details">
 									<h4><a href="#">Samples lay spread out on the table</a></h4>

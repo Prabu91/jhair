@@ -11,7 +11,7 @@
 			<div class="col col-xs-12">
 				<h2>Project single</h2>
 				<ol class="breadcrumb">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li>Project single</li>
 				</ol>
 			</div>
@@ -28,7 +28,7 @@
 			<div class="col col-xs-12">
 				<div class="project-single-content">
 					<div class="img-holder">
-						<img src="assets/images/project-single/img-1.jpg" alt>
+						<img src="{{ asset('images/project-single/img-1.jpg') }}" alt>
 					</div>
 					<div class="content-area">
 						<div class="project-info">
